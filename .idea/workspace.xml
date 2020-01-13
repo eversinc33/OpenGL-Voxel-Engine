@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="OpenGL_Engine" targetName="uninstall" />
+      <config projectName="OpenGL_Engine" targetName="glfw" />
+      <config projectName="OpenGL_Engine" targetName="OpenGL_Engine" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="138fb3d4-f0fc-4c8c-9cec-e947a0647f1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="OpenGL_Engine" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modern-opengl-engine" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Q95qCwpVmSz7pfkq1qNMX9jtWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Engine" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Engine/resources/shaders/fragment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.OpenGL_Engine">
+    <configuration name="OpenGL_Engine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGL_Engine" TARGET_NAME="OpenGL_Engine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenGL_Engine" RUN_TARGET_NAME="OpenGL_Engine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGL_Engine" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenGL_Engine" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.OpenGL_Engine" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.glfw" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="138fb3d4-f0fc-4c8c-9cec-e947a0647f1a" name="Default Changelist" comment="" />
+      <created>1567170160847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567170160847</updated>
+      <workItem from="1567170166056" duration="668000" />
+      <workItem from="1568552187572" duration="3812000" />
+      <workItem from="1575767656680" duration="951000" />
+      <workItem from="1575817940595" duration="488000" />
+      <workItem from="1575818560233" duration="252000" />
+      <workItem from="1578388257840" duration="7000" />
+      <workItem from="1578921655043" duration="2683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1314" height="163" key="GridCell.Tab.0.bottom" timestamp="1578924343804">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1314" height="163" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1578924343804" />
+    <state width="1314" height="163" key="GridCell.Tab.0.center" timestamp="1578924343803">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1314" height="163" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1578924343803" />
+    <state width="1314" height="163" key="GridCell.Tab.0.left" timestamp="1578924343802">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1314" height="163" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1578924343802" />
+    <state width="1314" height="163" key="GridCell.Tab.0.right" timestamp="1578924343803">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1314" height="163" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1578924343803" />
+    <state x="172" y="32" key="SettingsEditor" timestamp="1575817968547">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="172" y="32" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1575817968547" />
+    <state x="349" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578921655099">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="349" y="224" key="com.intellij.ide.util.TipDialog/0.25.1366.743@0.25.1366.743" timestamp="1578921655099" />
+    <state x="679" y="25" width="687" height="743" key="find.popup" timestamp="1578922217390">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="679" y="25" width="687" height="743" key="find.popup/0.25.1366.743@0.25.1366.743" timestamp="1578922217390" />
+    <state x="341" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578923873896">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="341" y="89" width="672" height="678" key="search.everywhere.popup/0.25.1366.743@0.25.1366.743" timestamp="1578923873896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Engine/ui/Ui.h</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
